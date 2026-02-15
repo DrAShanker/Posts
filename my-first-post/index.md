@@ -34,8 +34,5 @@ editPost:
 <!--more-->
 > This is dummy block text
 
-My first post index. 
-[![My first image] (/my-first-image.JPG)]
-
-# My version (usrmod)
-[![My first image](my-first-image.JPG)
+### My version (usrmod)
+![My first image](my-first-image.JPG)
