@@ -1,2 +1,2 @@
 My first post index. 
-((my-first-image))
+[![My first image](my-first-image.JPG)
